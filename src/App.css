@@ -7,6 +7,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.page-content {
+  background-image: './image/journey.jpeg'
+}
 
 .App-header {
   background-color: #282c34;
