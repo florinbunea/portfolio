@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.01c9a1a3.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.bc83cf36.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.bc83cf36.chunk.js.map",
-    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
-    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
-    "static/css/2.60a6b8e0.chunk.css": "/react-gh-pages/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.e39980b8.chunk.js": "/react-gh-pages/static/js/2.e39980b8.chunk.js",
-    "static/js/2.e39980b8.chunk.js.map": "/react-gh-pages/static/js/2.e39980b8.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.d3714cebef623a1fb8a9e0f3d6c91313.js": "/react-gh-pages/precache-manifest.d3714cebef623a1fb8a9e0f3d6c91313.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/2.60a6b8e0.chunk.css.map": "/react-gh-pages/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.01c9a1a3.chunk.css.map": "/react-gh-pages/static/css/main.01c9a1a3.chunk.css.map",
-    "static/media/journey.jpeg": "/react-gh-pages/static/media/journey.81a0df7a.jpeg"
+    "main.css": "/portfolio/static/css/main.01c9a1a3.chunk.css",
+    "main.js": "/portfolio/static/js/main.df967b3d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.df967b3d.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/portfolio/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.e39980b8.chunk.js": "/portfolio/static/js/2.e39980b8.chunk.js",
+    "static/js/2.e39980b8.chunk.js.map": "/portfolio/static/js/2.e39980b8.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.fe3f01c2cffee9d06e16f6ee37b4a913.js": "/portfolio/precache-manifest.fe3f01c2cffee9d06e16f6ee37b4a913.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/portfolio/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.01c9a1a3.chunk.css.map": "/portfolio/static/css/main.01c9a1a3.chunk.css.map",
+    "static/media/journey.jpeg": "/portfolio/static/media/journey.81a0df7a.jpeg"
   }
 }
