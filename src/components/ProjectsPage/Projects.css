@@ -1,0 +1,14 @@
+.Homepage {
+    background-image: url(../backgrounds/image/projects.jpg);
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    height: auto;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
