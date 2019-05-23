@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9484a58f.chunk.css",
-    "main.js": "/portfolio/static/js/main.8df81229.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8df81229.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.554aa183.chunk.css",
+    "main.js": "/portfolio/static/js/main.a68b7228.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a68b7228.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
     "static/css/2.60a6b8e0.chunk.css": "/portfolio/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.0c72219f.chunk.js": "/portfolio/static/js/2.0c72219f.chunk.js",
-    "static/js/2.0c72219f.chunk.js.map": "/portfolio/static/js/2.0c72219f.chunk.js.map",
+    "static/js/2.6a463f76.chunk.js": "/portfolio/static/js/2.6a463f76.chunk.js",
+    "static/js/2.6a463f76.chunk.js.map": "/portfolio/static/js/2.6a463f76.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.4c8139db13d2e7e6708a5effdbd56fe2.js": "/portfolio/precache-manifest.4c8139db13d2e7e6708a5effdbd56fe2.js",
+    "precache-manifest.aa56d09e53b2c4dbb4a78f0450be17f5.js": "/portfolio/precache-manifest.aa56d09e53b2c4dbb4a78f0450be17f5.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.60a6b8e0.chunk.css.map": "/portfolio/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.9484a58f.chunk.css.map": "/portfolio/static/css/main.9484a58f.chunk.css.map",
-    "static/media/aboutme.jpg": "/portfolio/static/media/aboutme.f85c18fd.jpg",
-    "static/media/contact.jpg": "/portfolio/static/media/contact.edf131fb.jpg",
+    "static/css/main.554aa183.chunk.css.map": "/portfolio/static/css/main.554aa183.chunk.css.map",
+    "static/media/Aboutme.css": "/portfolio/static/media/aboutme.f85c18fd.jpg",
+    "static/media/Contact.css": "/portfolio/static/media/contact.edf131fb.jpg",
     "static/media/Home.css": "/portfolio/static/media/home.47201765.jpg",
-    "static/media/projects.jpg": "/portfolio/static/media/projects.8216401f.jpg"
+    "static/media/Projects.css": "/portfolio/static/media/projects.8216401f.jpg"
   }
 }
