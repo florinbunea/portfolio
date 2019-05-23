@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from "react-mdl";
-
-import  projects from "../backgrounds/image/projects.jpg";
-
+import "./Projects.css";
 
 class Projects extends Component {
     render() {
         return (
             <div className="container">
-                <Grid className="project-grid">
-                     <Cell col={12}>
-                        <img src={projects} alt ="logo" />                  
+                <Grid className="projects-image">
+                     <Cell col={12}> 
+                        <div className="overlay">
+                           <h1> Welcome to Projects Page, work in progress!</h1>
+                        </div>                
                      </Cell>
                 </Grid>
             </div>

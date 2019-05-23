@@ -1,14 +1,25 @@
-.Homepage {
-    background-image: url(../backgrounds/image/projects.jpg);
+.container {
+  height: 100%;
 }
 
-img {
+.projects-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(../backgrounds/image/projects.jpg);
+    background-size: cover;
+    background-position: center;
     height: 100%;
-    width: 100%;
-    height: auto;
-    width: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
 }
+
+
+/* .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  } */
 

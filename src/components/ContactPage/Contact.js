@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from "react-mdl";
-
-import  contact from "../backgrounds/image/contact.jpg";
-
+import "./Contact.css";
 
 class Contact extends Component {
     render() {
         return (
             <div className="container">
-                <Grid className="contact-grid">
+                <Grid className="contact-image">
                      <Cell col={12}>
-                        <img src={contact} alt ="logo" />                  
+                        <div className="overlay">
+                           <h1> Welcome to Contact Page, work in progress!</h1>
+                        </div>                 
                      </Cell>
                 </Grid>
             </div>
